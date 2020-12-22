@@ -18,11 +18,7 @@ English | [中文](README_ZH.md)
 FIDO2 Sample provides many sample programs for your reference or usage.
 
 ## Getting Started
-For more development details, please refer to the following link:
-
-Development Guide: https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview
-
-API References: https://developer.huawei.com/consumer/en/doc/development/HMS-References/FIDO2Packagecomhuaweihmssupportapifidofido2
+For more development details, please refer to the following link:[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview) & [API References](https://developer.huawei.com/consumer/en/doc/development/HMS-References/FIDO2Packagecomhuaweihmssupportapifidofido2)
 
 We also provide an example to demonstrate the use of FIDO2 SDK for Android.
 
@@ -53,7 +49,7 @@ No additional configuration is required.
 
 FIDO2 includes two operations: registration and authentication. The processes are similar for the two operations.
 
-1.Create an activity.
+1. Create an activity.
 
 2. Obtain the challenge value and related policy from the FIDO server, and initiate a request.
 
