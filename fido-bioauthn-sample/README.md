@@ -3,8 +3,6 @@
 
 English | [中文](README_ZH.md)
 
-
-
 ## Table of Contents
 
  * [Introduction](#introduction)
@@ -20,11 +18,8 @@ English | [中文](README_ZH.md)
 FIDO BioAuthn Sample provides many sample programs for your reference or usage.
 
 ## Getting Started
-For more development details, please refer to the following link:
-
-Development Guide: https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview
-
-API References: https://developer.huawei.com/consumer/en/doc/development/HMS-References/BioAuthn_Packagecomhuaweihmssupportapifidobioauthn
+For more development details, please refer to the following link: [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/FIDO2_Overview)
+ & [API References](https://developer.huawei.com/consumer/en/doc/development/HMS-References/BioAuthn_Packagecomhuaweihmssupportapifidobioauthn)
 
 
 We also provide an example to demonstrate the use of BioAuthn SDK for Android.
@@ -54,16 +49,16 @@ No additional configuration is required.
 
 ## Sample Code
 
-1). Shows the fingerprint manager without CryptoObject and allows the user to use the device PIN and password for authentication.
+1. Shows the fingerprint manager without CryptoObject and allows the user to use the device PIN and password for authentication.
 
-2). Shows the fingerprint manager with CryptoObject.
+2. Shows the fingerprint manager with CryptoObject.
 
-3). Sends a 3D facial authentication request to the user device.
+3. Sends a 3D facial authentication request to the user device.
 
 
 ## Result
 <center class="half">
-<img src="images/result.png" style="zoom:33%;" />
+<img src="images/result.png" width=250>
 </center>
 
 ##  License
