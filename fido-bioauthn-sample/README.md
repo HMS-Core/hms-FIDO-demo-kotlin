@@ -18,8 +18,8 @@ English | [中文](README_ZH.md)
 FIDO BioAuthn Sample provides many sample programs for your reference or usage.
 
 ## Getting Started
-For more development details, please refer to the following link: [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/bioauthn-sdk-0000001055606575)
- & [API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-References-V5/bioauthnoverview-0000001050268268-V5)
+For more development details, please refer to the following link: [Development Guide](https://developer.huawei.com/consumer/en/doc/development/Security-Guides/introduction-0000001051069988)
+ & [API References](https://developer.huawei.com/consumer/en/doc/development/Security-References/overview-0000001077338138)
 
 
 We also provide an example to demonstrate the use of BioAuthn SDK for Android.
